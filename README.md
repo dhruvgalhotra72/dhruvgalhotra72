@@ -134,7 +134,7 @@ class DhruvGalhotra {
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://leetcode.com/u/dhruv9988/">
+<a href="https://leetcode.com/dhruv9988/">
 <img src="https://skillicons.dev/icons?i=stackoverflow"/>
 </a>
 
