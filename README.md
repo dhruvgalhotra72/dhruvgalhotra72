@@ -126,11 +126,11 @@ class DhruvGalhotra {
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/dhruv-galhotra/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:dhruvgalhotra72">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
